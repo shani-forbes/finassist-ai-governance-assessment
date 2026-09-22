@@ -21,7 +21,7 @@ Qualitative ratings are Low / Medium / High. Where evidence is insufficient, the
 
 **Inherent likelihood:** TBD pending architecture assessment  
 **Inherent impact:** High  
-**Current residual:** Low likelihood / High impact, subject to validation of the stated architecture and tests  
+**Current residual:** TBD / High pending validation of architecture, authorization controls, and cross-customer isolation testing.
 **Target residual:** Low / High  
 **Treatment:** Mitigate
 
